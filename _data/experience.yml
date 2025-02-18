@@ -6,9 +6,9 @@
   summary: Played a key role in the design and development of Global Secure Access (GSA), a cloud security solution enhancing network traffic security for endpoint devices, M365, and macOS applications.  
     <ul class="resume-item-list">
       <li>Developed and integrated Health APIs in the GSA client for real-time UI and network synchronization based on Diagnostic URLs.</li>
-      <li>Implemented the Telemetry module, MSAL-based authentication, and user-switching functionality for security and ease of use.</li>
-      <li>Built major UI components, collaborated with the UX team, and contributed to bug fixes.</li>
-      <li>Led end-to-end automation (Appium and Python), performance monitoring, and unit testing for GSA.</li>
+      <li>Implemented the Telemetry module, MSAL-based authentication, and user-switching functionality for security and ease of use for clients.</li>
+      <li>Built major components such as Health Check Tool, Settings, etc and collaborated with the UX team, and contributed to regular bug fixes.</li>
+      <li>Led end-to-end automation (using Appium and Python), performance monitoring, and unit testing for GSA.</li>
     </ul>
 
 # Software Engineer at Samsung
@@ -17,16 +17,19 @@
   duration: Sept, 2020 &mdash; Nov, 2022
   summary: Contributed to the development of the Contacts and Phone applications for Samsung’s first Android framework-based smartwatch, ensuring compliance with design and platform guidelines.  
     <ul class="resume-item-list">
-      <li>Owned end-to-end feature development for Telephony apps, including Contacts, Phone, and People Stripe.</li>
+      <li>Developed clean, maintainable application by taking full ownership of end-to-end feature development of Telephony apps- Contacts, Phone, People Stripe.</li>
       <li>Enhanced and upgraded Contacts and Phone applications for OS updates, aligning with updated Android guidelines.</li>
-    </ul>
-
-# Software Engineer Intern at Samsung
-- company: Samsung
-  position: Software Engineer Intern
-  duration: May, 2019 &mdash; July, 2019
-  summary: Developed an Android application for proximity sensing using Fourier transform patterns of ultrasound signals.  
-    <ul class="resume-item-list">
+      <li>Developed an Android application for proximity sensing using Fourier transform patterns of ultrasound signals</li>
       <li>Built additional applications, including an account management system and RSSI-based signal sensing.</li>
       <li>Received a Pre-Placement Offer (PPO) for outstanding performance during the internship.</li>
     </ul>
+
+# # Software Engineer Intern at Samsung
+# - company: 
+#   position: Software Engineer Intern
+#   duration: May, 2019 &mdash; July, 2019
+#   summary: Developed an Android application for proximity sensing using Fourier transform patterns of ultrasound signals.  
+#     <ul class="resume-item-list">
+#       <li>Built additional applications, including an account management system and RSSI-based signal sensing.</li>
+#       <li>Received a Pre-Placement Offer (PPO) for outstanding performance during the internship.</li>
+#     </ul>

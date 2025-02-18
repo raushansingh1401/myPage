@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
 - skill: Programming Languages
-  description: Java, C/C++, Python, Swift, Objective C, Kotlin, Bash
+  description: Java, C/C++, Python, Swift, Objective C, Kotlin, Bash, JavaScript, HTML
 
 # Communications strategy
 - skill: Development Experience
-  description: Distributed System, API Design, MacOS, iOS, Android, Wear OS, Linux, Networks, OOD/OOM
+  description: Distributed System, API Design, MacOS, iOS, Android, Wear OS, Linux, Networks, OOD/OOM, Web development, Scripting, Matlab
 
 # Digital content development and creation
 - skill: Frameworks and Tools
-  description: Git,Xcode, Azure Web Services, Azure Pipeline (CI/CD), Gerrit, Xcode, Android Studio, IntelliJ IDEA, VS Code
+  description: Git, Xcode, Azure Web Services, Azure Pipeline (CI/CD), Gerrit, Xcode, Android Studio, IntelliJ IDEA, VS Code
