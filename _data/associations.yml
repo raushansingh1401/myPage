@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Technical Board, IIT Guwahati
+  role: Core Team Member
+  year: 2017 &mdash; 2020
+  url: https://iitg.ac.in/freshers/?p=technical
+  summary: Core Team Member of the Technical Board at IIT Guwahati. Lead the Aeromodelling team at Techniche 2017 and 2018. Designed a vehicle which is a hybrid of a quadcopter and a plane structure. The main device used was pixhawk (controlled all the four motors of the quad along with the drift motor of the plane).
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Technothlon 2017
+  role: City Representative
+  year: 2016 &mdash; 2017
+  url: https://technothlon.techniche.org.in/
+  summary: Successfully contributed in conducting(questions setting, operations) Technothlon (International School Championship conducted by student fraternity, IIT Guwahati), and brought more than 300 registrations from Patna.

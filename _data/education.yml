@@ -1,13 +1,16 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Technology, Electronics and Communication Engineering
+  uni: Indian Institute of Technology Guwahati (IIT Guwahati)
+  year: 2016 &mdash; 2020
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Awarded with Mean-cum-Merit scholarship (2017-2020)
+    - award: Core Member of the Aero-modelling club, IIT Guwahati
+    - award: Lead project VTOL (Vertical Take Off and Landing Vehicle)
+    - award: City Representative for Technothlon 2017
+  #summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+# - degree: High School Diploma
+#   uni: Springfield High School
+#   year: 2004
+#   award: Most likely to succeed
+#   summary: You can choose to have either a single or multiple awards
