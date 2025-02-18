@@ -11,21 +11,22 @@
       <li>Led end-to-end automation (Appium and Python), performance monitoring, and unit testing for GSA.</li>
     </ul>
 
-# Samsung Research and Development Institute, Noida
-- company: Samsung Research and Development Institute, Noida
-  positions:
-    - position: Software Engineer
-      duration: Sept, 2020 &mdash; Nov, 2022
-      summary: Contributed to the development of Contacts and Phone applications for Samsung’s first Android framework-based smartwatch, ensuring compliance with design and platform guidelines.  
-        <ul class="resume-item-list">
-          <li>Owned end-to-end feature development for Telephony apps, including Contacts, Phone, and People Stripe.</li>
-          <li>Enhanced and upgraded Contacts and Phone applications for OS updates, aligning with updated Android guidelines.</li>
-        </ul>
-    
-    - position: Software Engineer Intern
-      duration: May, 2019 &mdash; July, 2019
-      summary: Developed innovative signal sensing applications and received a Pre-Placement Offer (PPO) for outstanding performance.  
-        <ul class="resume-item-list">
-          <li>Developed an Android application for proximity sensing using Fourier transform patterns of ultrasound signals.</li>
-          <li>Built additional applications, including an account management system and RSSI-based signal sensing.</li>
-        </ul>
+# Software Engineer at Samsung
+- company: Samsung
+  position: Software Engineer
+  duration: Sept, 2020 &mdash; Nov, 2022
+  summary: Contributed to the development of the Contacts and Phone applications for Samsung’s first Android framework-based smartwatch, ensuring compliance with design and platform guidelines.  
+    <ul class="resume-item-list">
+      <li>Owned end-to-end feature development for Telephony apps, including Contacts, Phone, and People Stripe.</li>
+      <li>Enhanced and upgraded Contacts and Phone applications for OS updates, aligning with updated Android guidelines.</li>
+    </ul>
+
+# Software Engineer Intern at Samsung
+- company: Samsung
+  position: Software Engineer Intern
+  duration: May, 2019 &mdash; July, 2019
+  summary: Developed an Android application for proximity sensing using Fourier transform patterns of ultrasound signals.  
+    <ul class="resume-item-list">
+      <li>Built additional applications, including an account management system and RSSI-based signal sensing.</li>
+      <li>Received a Pre-Placement Offer (PPO) for outstanding performance during the internship.</li>
+    </ul>
