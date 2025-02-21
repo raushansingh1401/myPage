@@ -5,8 +5,8 @@
 
 # Communications strategy
 - skill: Development Experience
-  description: Distributed System, API Design, MacOS, iOS, Android, Wear OS, Linux, Networks, OOD/OOM, Web development, Scripting, Matlab
+  description: Distributed Systems, API Design, Microservices, iOS, RESTful APIs, macOS, iOS, Android, Networks, IPC, Linux
 
 # Digital content development and creation
 - skill: Frameworks and Tools
-  description: Git, Xcode, Azure Web Services, Azure Pipeline (CI/CD), Gerrit, Xcode, Android Studio, IntelliJ IDEA, VS Code
+  description: Git, Flask, Spring Boot, AWS, Azure Pipelines (CI/CD), CocoaPods, SwiftUI, UIKit, Android, IDEA, VS Code, PyCharm, Xcode

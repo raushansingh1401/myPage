@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Raushan Singh"
+description: "Raushan Singh's webpage"
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,7 @@ resume_contact_address:         "Girja Niwas, Jalla Gali, Patna city, Patna - 80
 resume_header_contact_info:     "7002796605 • raushansingh1401@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a passionate software engineer with over four years of development experience in big techs like Microsoft and Samsung R&D. I am always eager to work with latest and cutting-edge technologies. A graduate of IIT Guwahati and a recipient of the prestigious KVPY fellowship (2015) from the Department of Science and Technology, Government of India, I thrive on solving complex problems and building impactful solutions. I am looking for opportunities to contribute to high-impact projects and advance my expertise in software development.</p>"
+resume_header_intro: "<p>Software Engineer with 4+ years of experience at Microsoft and Samsung R&D, specializing in backend development, distributed systems, and mobile application development. Strong expertise in C++, Python, Java, and Swift, with hands-on experience in API design, cloud security solutions, automation testing, and UI development. Passionate about designing scalable, high-performance applications.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

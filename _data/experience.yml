@@ -5,18 +5,20 @@
   duration: Nov, 2022 &mdash; Present
   summary: Played a key role in the design and development of Global Secure Access (GSA), a cloud security solution enhancing network traffic security for endpoint devices, M365, and macOS applications.  
     <ul class="resume-item-list">
-      <li>Developed and integrated Health APIs in the GSA client for real-time UI and network synchronization based on Diagnostic URLs.</li>
-      <li>Implemented the Telemetry module, MSAL-based authentication, and user-switching functionality for security and ease of use for clients.</li>
+      <li>Developed MSAL-based authentication and Switch User functionality, improving security and multi-user access.</li>
+      <li>Implemented Health APIs to synchronize UI and network diagnostics in real-time, improving security monitoring.</li>
+      <li>Built a Telemetry module to enhance logging, diagnostics, and monitoring capabilities.</li>
+      <li>Led end-to-end automation (using Appium and Python), performance monitoring (CPU, Memory, internet speed) with report generation for upload/download functionality, and unit testing for GSA.</li>
       <li>Built major components such as Health Check Tool, Settings, etc and collaborated with the UX team, and contributed to regular bug fixes.</li>
-      <li>Led end-to-end automation (using Appium and Python), performance monitoring, and unit testing for GSA.</li>
     </ul>
 
 # Software Engineer at Samsung
 - company: Samsung
   position: Software Engineer
   duration: Sept, 2020 &mdash; Nov, 2022
-  summary: Contributed to the development of the Contacts and Phone applications for Samsung’s first Android framework-based smartwatch, ensuring compliance with design and platform guidelines.  
+  summary: Key member of Core application R&D team at Samsung, contributed significantly to the Contacts application by implementing critical features and resolving major bugs in the Settings and Manage Contacts modules. Led the end-to-end development of the Contacts application for Wear OS, building it from scratch.  
     <ul class="resume-item-list">
+      <li>Contributed to the development of the Contacts applications for Samsung’s first Android framework-based smartwatch, ensuring compliance with design and platform guidelines</li>
       <li>Developed clean, maintainable application by taking full ownership of end-to-end feature development of Telephony apps- Contacts, Phone, People Stripe.</li>
       <li>Enhanced and upgraded Contacts and Phone applications for OS updates, aligning with updated Android guidelines.</li>
       <li>Developed an Android application for proximity sensing using Fourier transform patterns of ultrasound signals</li>

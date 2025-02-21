@@ -2,6 +2,12 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
+- project: GSMS Web Application
+  role: Grocery Store Managment System 
+  duration: Python &mdash; Flask
+  url: "https://github.com/raushansingh1401/GSMS-WebApp.git"
+  description: Developed a grocery store management application using a three-tier architecture. The frontend will be built with HTML, CSS, JavaScript, and Bootstrap for a responsive user interface. The backend will be powered by Python and Flask to handle business logic and API requests, while MySQL will be used for data storage and management.
+
 - project: Logarithmic ALU
   role: B.Tech Thesis Project (IIT Guwahati)
   duration: 2019 &mdash; 2020
@@ -13,4 +19,4 @@
   role: Design Lab Project
   duration: 2018 &mdash; 2019
   # url: "#"
-  description: Arduino based design project - horizontal size of the obstacle can be detected along left and right distances separately with the of UR sensor.
+  description: Arduino based design project - horizontal size of the obstacle can be detected along left and right distances separately with the help of UR sensor.
