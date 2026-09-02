@@ -2,8 +2,9 @@
 # Software Engineer at Adobe
 - company: Adobe
   position: Computer Scientist (SDE III)
-  duration: Apr, 2025 &mdash; Present
-  summary: Full ownership of LLM based major GlaaS (transcreation) plugins - Adobe.com, Marcom, Auto-translate (Adobe Express), Validator.
+  duration: "Apr, 2025 — Present"
+  summary: |
+    Full ownership of LLM based major GlaaS (transcreation) plugins - Adobe.com, Marcom, Auto-translate (Adobe Express), Validator.
     <ul class="resume-item-list">
       <li>Delivered an essential health monitoring tool: Coronet PULSE for Globalization/Localisation workflows and APIs, built on serverless architecture (serverless workers, S3, boto3).</li>
       <li>Ideated and delivered end-to-end InApp Acrobat PDF translation feature, reducing latency to 0.1x of previous workflow (MacOS, C++).</li>
@@ -13,8 +14,9 @@
 # Software Engineer at Microsoft
 - company: Microsoft 
   position: Software Engineer
-  duration: Nov, 2022 &mdash; Apr, 2025
-  summary: Played a key role in the design and development of Global Secure Access (GSA), a cloud security solution enhancing network traffic security for endpoint devices, M365, and macOS applications.  
+  duration: "Nov, 2022 — Apr, 2025"
+  summary: |
+    Played a key role in the design and development of Global Secure Access (GSA), a cloud security solution enhancing network traffic security for endpoint devices, M365, and macOS applications.
     <ul class="resume-item-list">
       <li>Developed MSAL-based authentication and Switch User functionality, improving security and multi-user access.</li>
       <li>Implemented Health APIs to synchronize UI and network diagnostics in real-time, improving security monitoring.</li>
@@ -26,8 +28,9 @@
 # Software Engineer at Samsung
 - company: Samsung
   position: Software Engineer
-  duration: Sept, 2020 &mdash; Nov, 2022
-  summary: Key member of Core application R&D team at Samsung, contributed significantly to the Contacts application by implementing critical features and resolving major bugs in the Settings and Manage Contacts modules. Led the end-to-end development of the Contacts application for Wear OS, building it from scratch.  
+  duration: "Sept, 2020 — Nov, 2022"
+  summary: |
+    Key member of Core application R&D team at Samsung, contributed significantly to the Contacts application by implementing critical features and resolving major bugs in the Settings and Manage Contacts modules. Led the end-to-end development of the Contacts application for Wear OS, building it from scratch.
     <ul class="resume-item-list">
       <li>Contributed to the development of the Contacts applications for Samsung’s first Android framework-based smartwatch, ensuring compliance with design and platform guidelines</li>
       <li>Developed clean, maintainable application by taking full ownership of end-to-end feature development of Telephony apps- Contacts, Phone, People Stripe.</li>
