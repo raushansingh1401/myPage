@@ -1,8 +1,19 @@
 # Jobs
+# Software Engineer at Adobe
+- company: Adobe
+  position: Computer Scientist (SDE III)
+  duration: Apr, 2025 &mdash; Present
+  summary: Full ownership of LLM based major GlaaS (transcreation) plugins - Adobe.com, Marcom, Auto-translate (Adobe Express), Validator.
+    <ul class="resume-item-list">
+      <li>Delivered an essential health monitoring tool: Coronet PULSE for Globalization/Localisation workflows and APIs, built on serverless architecture (serverless workers, S3, boto3).</li>
+      <li>Ideated and delivered end-to-end InApp Acrobat PDF translation feature, reducing latency to 0.1x of previous workflow (MacOS, C++).</li>
+      <li>Major contributions to TermDB generator, g11n-content-generator, and style guide service: API updates, CI integration, and rule updates (Spring Boot).</li>
+    </ul>
+
 # Software Engineer at Microsoft
 - company: Microsoft 
   position: Software Engineer
-  duration: Nov, 2022 &mdash; Present
+  duration: Nov, 2022 &mdash; Apr, 2025
   summary: Played a key role in the design and development of Global Secure Access (GSA), a cloud security solution enhancing network traffic security for endpoint devices, M365, and macOS applications.  
     <ul class="resume-item-list">
       <li>Developed MSAL-based authentication and Switch User functionality, improving security and multi-user access.</li>
