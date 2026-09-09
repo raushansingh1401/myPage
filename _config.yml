@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Raushan Singh"
-resume_title:                   "Computer Scientist | Adobe | C++ • macOS • AI/LLMs"
+resume_title:                   "Senior Software Engineer | Adobe | Distributed Systems • AI/ML"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "raushansingh1401@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Girja Niwas, Jalla Gali, Patna city, Patna - 80
 resume_header_contact_info:     "7002796605 • raushansingh1401@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Software Engineer / Computer Scientist with 6+ years of experience building large-scale client and platform software at Adobe, Microsoft, and Samsung. Experienced in C++/Objective-C/Swift, Python, backend services, automation, and AI/LLM-powered localization workflows. Currently working on Acrobat's in-app PDF translation, focusing on document text extraction, translation quality, layout preservation, and production-grade engineering. IIT Guwahati graduate.</p>"
+resume_header_intro: "<p>Senior Software Engineer / Computer Scientist with 6+ years of experience building large-scale distributed systems and AI/ML-powered products at Adobe, Microsoft, and Samsung. Experienced in backend services, APIs, automation, and LLM-driven workflows spanning localization, document processing, and cloud platforms. Currently working on Acrobat's in-app PDF translation and related globalization infrastructure, with a focus on translation quality, scalable pipelines, and production-grade engineering. IIT Guwahati graduate.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

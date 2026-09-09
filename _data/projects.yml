@@ -10,14 +10,16 @@
 - project: Nomadly
   role: Travel discovery
   duration: Next.js &mdash; TypeScript
-  url: "https://nomadly-beta.vercel.app"
-  description: Designed a travel discovery site for authentic journeys, hidden gems, and cultural experiences. Includes destinations, experiences, curated packages, and a plan-a-trip flow, built with Next.js, TypeScript, and Framer Motion.
+  url: "https://github.com/raushansingh1401/nomadly"
+  description: |
+    Designed a travel discovery site for authentic journeys, hidden gems, and cultural experiences. Includes destinations, experiences, curated packages, and a plan-a-trip flow, built with Next.js, TypeScript, and Framer Motion. Live app: <a href="https://nomadly-beta.vercel.app" target="_blank">https://nomadly-beta.vercel.app</a>
 
 - project: WhozIt
   role: Anonymous guessing game
   duration: Next.js &mdash; TypeScript / Supabase
-  url: "https://whozit.vercel.app"
-  description: Built a real-time anonymous party game where friends chat behind random identities and then guess who everyone is. Players can create or join rooms, with live chat, identity assignment, and a reveal phase. Stack includes Next.js, TypeScript, and Supabase.
+  url: "https://github.com/raushansingh1401/whozit"
+  description: |
+    Built a real-time anonymous party game where friends chat behind random identities and then guess who everyone is. Players can create or join rooms, with live chat, identity assignment, and a reveal phase. Stack includes Next.js, TypeScript, and Supabase. Live app: <a href="https://whozit.vercel.app" target="_blank">https://whozit.vercel.app</a>
 
 # jazznotes.io
 - project: GSMS Web Application
