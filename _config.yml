@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Raushan Singh"
-resume_title:                   "Computer Scientist (SDE III, Senior Software Engineer) | Adobe | Microsoft | Samsung | Distributed Systems • AI/ML"
+resume_title:                   "Senior Software Engineer | Adobe | Microsoft | Samsung | Distributed Systems • AI/ML"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "raushansingh1401@gmail.com"
