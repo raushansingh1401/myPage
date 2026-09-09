@@ -1,32 +1,33 @@
 # Jobs
 # Software Engineer at Adobe
 - company: Adobe
-  position: Computer Scientist (SDE III)
+  position: Computer Scientist (SDE III) — Globalization
   duration: "Apr, 2025 — Present"
   summary: |
-    Full ownership of LLM based major GlaaS (transcreation) plugins - Adobe.com, Marcom, Auto-translate (Adobe Express), Validator.
+    Building AI-powered localization and translation systems, with Acrobat in-app PDF translation as a primary focus, plus GlaaS transcreation plugins (Adobe.com, Marcom, Auto-translate for Adobe Express, Validator).
     <ul class="resume-item-list">
-      <li>Delivered an essential health monitoring tool: Coronet PULSE for Globalization/Localisation workflows and APIs, built on serverless architecture (serverless workers, S3, boto3).</li>
-      <li>Ideated and delivered end-to-end InApp Acrobat PDF translation feature, reducing latency to 0.1x of previous workflow (MacOS, C++).</li>
-      <li>Major contributions to TermDB generator, g11n-content-generator, and style guide service: API updates, CI integration, and rule updates (Spring Boot).</li>
+      <li>Designed and developed a proof of concept for translating PDF content directly in Acrobat while preserving document structure and visual fidelity; moved the PoC toward production through refactoring, modularization, and quality validation (macOS, C++).</li>
+      <li>Investigated PDF text extraction and retrofitting (including PDWordFinder), and systematically handled layout and typography issues: missing/partial translation, overlap, overflow, font sizing, color preservation, RTL/BiDi, vertical text, lists, and non-uniform text distribution across complex, multi-locale, hundred-page benchmark PDFs.</li>
+      <li>Compared Acrobat's approach with the existing Acrobat/Express translation workflow, coordinated testing with QE and Acrobat engineers, and reduced latency to 0.1x of the previous workflow.</li>
+      <li>Worked on localization infrastructure involving LLMs, terminology services, prompt generation, and post-processing; major contributions to TermDB generator, g11n-content-generator, and Style Guide Validator (Spring Boot APIs, CI, rule updates).</li>
+      <li>Delivered Coronet PULSE, a health monitoring tool for Globalization/Localization workflows and APIs, on serverless architecture (workers, S3, boto3).</li>
     </ul>
 
 # Software Engineer at Microsoft
-- company: Microsoft 
+- company: Microsoft
   position: Software Engineer
   duration: "Nov, 2022 — Apr, 2025"
   summary: |
-    Played a key role in the design and development of Global Secure Access (GSA), a cloud security solution enhancing network traffic security for endpoint devices, M365, and macOS applications.
+    Played a key role in client development for Global Secure Access (GSA / NaaS), a cloud security solution enhancing network traffic security for endpoint devices, M365, and macOS applications.
     <ul class="resume-item-list">
       <li>Developed MSAL-based authentication and Switch User functionality, improving security and multi-user access.</li>
-      <li>Implemented Health APIs to synchronize UI and network diagnostics in real-time, improving security monitoring.</li>
-      <li>Built a Telemetry module to enhance logging, diagnostics, and monitoring capabilities.</li>
-      <li>Led end-to-end automation (using Appium and Python), performance monitoring (CPU, Memory, internet speed) with report generation for upload/download functionality, and unit testing for GSA.</li>
-      <li>Built major components such as Health Check Tool, Settings, etc and collaborated with the UX team, and contributed to regular bug fixes.</li>
+      <li>Implemented Health APIs to synchronize UI and network diagnostics in real-time, and built a telemetry module for logging, diagnostics, and monitoring.</li>
+      <li>Led end-to-end automation (Appium and Python), performance monitoring (CPU, memory, internet speed) with report generation for upload/download, and unit testing for GSA.</li>
+      <li>Built Health Check Tool and Settings, collaborated with UX, and contributed ongoing bug fixes across the client.</li>
     </ul>
 
 # Software Engineer at Samsung
-- company: Samsung
+- company: "Samsung R&D Institute, Noida"
   position: Software Engineer
   duration: "Sept, 2020 — Nov, 2022"
   summary: |

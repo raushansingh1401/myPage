@@ -1,6 +1,24 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: LedgerMind
+  role: AI finance operations assistant
+  duration: Python &mdash; FastAPI / Gemini
+  url: "https://github.com/raushansingh1401/ledgermind"
+  description: Built an AI-powered transaction auto-tagging workflow to speed up month-end close. Combines a vendor rule engine, Gemini-based classification for unknown vendors, confidence-based routing (auto-post vs review), and human-in-the-loop feedback that writes new vendor rules. FastAPI, SQLAlchemy, and SQLite.
+
+- project: Nomadly
+  role: Travel discovery
+  duration: Next.js &mdash; TypeScript
+  url: "https://nomadly-beta.vercel.app"
+  description: Designed a travel discovery site for authentic journeys, hidden gems, and cultural experiences. Includes destinations, experiences, curated packages, and a plan-a-trip flow, built with Next.js, TypeScript, and Framer Motion.
+
+- project: WhozIt
+  role: Anonymous guessing game
+  duration: Next.js &mdash; TypeScript / Supabase
+  url: "https://whozit.vercel.app"
+  description: Built a real-time anonymous party game where friends chat behind random identities and then guess who everyone is. Players can create or join rooms, with live chat, identity assignment, and a reveal phase. Stack includes Next.js, TypeScript, and Supabase.
+
 # jazznotes.io
 - project: GSMS Web Application
   role: Grocery Store Managment System 

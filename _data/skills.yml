@@ -1,12 +1,15 @@
 # Skills
-# Organizational leadership
 - skill: Programming Languages
-  description: Java, C/C++, Python, Swift, Objective C, Kotlin, Bash, JavaScript, HTML
+  description: C++, C, Python, Java, Objective-C, Swift, Kotlin, Bash
 
-# Communications strategy
-- skill: Development Experience
-  description: Distributed Systems, API Design, Microservices, iOS, RESTful APIs, macOS, iOS, Android, Networks, IPC, Linux
+- skill: AI / Localization
+  description: LLM integration, machine translation, localization workflows, translation quality evaluation, terminology systems, style-guide validation, prompt engineering, LLM pre/post-processing
 
-# Digital content development and creation
-- skill: Frameworks and Tools
-  description: Git, Flask, Spring Boot, AWS, Azure Pipelines (CI/CD), CocoaPods, SwiftUI, UIKit, Android, IDEA, VS Code, PyCharm, Xcode
+- skill: Client Development
+  description: macOS, Xcode, Objective-C/C++, Swift, Acrobat architecture, Android, iOS
+
+- skill: Backend
+  description: Java, Spring Boot, REST APIs, Microservices, gRPC, Serverless, Flask
+
+- skill: Engineering / DevOps
+  description: Git, GitHub, Jenkins, CMake, Conan, pytest, Appium, Python automation, Azure Pipelines (CI/CD), AWS (S3, boto3)
